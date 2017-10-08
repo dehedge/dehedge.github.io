@@ -1,0 +1,639 @@
+body {
+  font-family: 'SF Pro Display', sans-serif;
+  color: #181920;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.section {
+  padding: 60px 40px;
+  text-align: center;
+}
+
+.section.plug {
+  position: static;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  background-image: -webkit-linear-gradient(270deg, rgba(31, 58, 147, .9), rgba(31, 58, 147, .9));
+  background-image: linear-gradient(180deg, rgba(31, 58, 147, .9), rgba(31, 58, 147, .9));
+  color: #fff;
+  text-align: center;
+}
+
+.container {
+  display: block;
+  width: 100%;
+  max-width: 1160px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.h2 {
+  margin-top: 0px;
+  margin-bottom: 40px;
+  font-size: 38px;
+  line-height: 60px;
+  font-weight: 900;
+  text-align: left;
+}
+
+.h2.blue {
+  margin-top: 0px;
+  margin-bottom: 40px;
+  color: #1f3a93;
+  font-weight: 900;
+}
+
+.h2.no-mt {
+  margin-bottom: 0px;
+  line-height: 60px;
+  font-weight: 500;
+}
+
+.h3 {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  clear: left;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 900;
+  text-align: left;
+}
+
+.text {
+  margin-bottom: 20px;
+  font-family: 'SF Pro Text', sans-serif;
+  color: #181920;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: left;
+}
+
+.column {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.row {
+  margin-right: -20px;
+  margin-left: -20px;
+  clear: left;
+}
+
+.img {
+  margin-bottom: 40px;
+  float: left;
+  clear: left;
+  border-radius: 2px;
+}
+
+.img.border {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(24, 25, 32, .1);
+}
+
+.color {
+  margin-bottom: 40px;
+}
+
+.color-block {
+  height: 150px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  background-color: #1f3a93;
+}
+
+.color-block.red {
+  background-color: #ff674c;
+}
+
+.color-block.black {
+  background-color: #181920;
+}
+
+.color-block.grey {
+  background-color: #f6f6f9;
+}
+
+.color-block.text-grey {
+  background-color: rgba(24, 25, 32, .6);
+}
+
+.color-block.border-grey {
+  background-color: rgba(24, 25, 32, .1);
+}
+
+.color-info {
+  padding: 15px 15px 20px 20px;
+  border-style: none solid solid;
+  border-width: 1px;
+  border-color: rgba(24, 25, 32, .1);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  text-align: left;
+}
+
+.text-block {
+  font-family: 'SF Pro Text', sans-serif;
+  color: rgba(24, 25, 32, .6);
+  font-size: 16px;
+  line-height: 1.6em;
+}
+
+.link-block {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  float: left;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-transition: opacity 200ms ease;
+  transition: opacity 200ms ease;
+  color: #1f3a93;
+  text-decoration: none;
+}
+
+.link-block:hover {
+  opacity: 0.75;
+}
+
+.link-block.mb {
+  margin-bottom: 40px;
+  padding: 15px 30px;
+  border-radius: 100px;
+  background-color: rgba(31, 58, 147, .1);
+  font-size: 14px;
+  line-height: 30px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.empty-40 {
+  height: 40px;
+}
+
+.icon-big {
+  width: 60px;
+  height: 60px;
+  margin-left: 10px;
+}
+
+.big-link-text {
+  margin-top: 0px;
+  margin-bottom: 40px;
+  line-height: 60px;
+  font-weight: 900;
+  text-align: left;
+}
+
+.big-link-text.blue {
+  margin-top: 0px;
+  margin-bottom: 40px;
+  color: #1f3a93;
+  font-weight: 900;
+}
+
+.big-link-text.no-mb {
+  margin-bottom: 0px;
+  line-height: 60px;
+  font-weight: 500;
+}
+
+.icon {
+  margin-left: 10px;
+}
+
+.nb {
+  background-color: transparent;
+}
+
+.brand {
+  margin-top: 5px;
+}
+
+.nl {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 20px;
+  float: right;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 100px;
+  background-color: hsla(0, 0%, 100%, .2);
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+  font-family: 'SF Pro Text', sans-serif;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.nl:hover {
+  background-color: hsla(0, 0%, 100%, .3);
+  -webkit-transform: translate(0px, -5px);
+  -ms-transform: translate(0px, -5px);
+  transform: translate(0px, -5px);
+}
+
+.nl.link-nl {
+  margin-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.brand_img {
+  height: 40px;
+}
+
+.h1 {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-size: 48px;
+  line-height: 60px;
+  font-weight: 900;
+  text-align: left;
+}
+
+.text-2 {
+  margin-bottom: 40px;
+  font-family: 'SF Pro Text', sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 300;
+  text-align: left;
+}
+
+.text-2.mb {
+  margin-bottom: 20px;
+}
+
+.text-2.mb-2 {
+  margin-bottom: 0px;
+  font-weight: 300;
+}
+
+.text-2.bold {
+  margin-bottom: 5px;
+  font-weight: 900;
+}
+
+.text-2.bold.mb {
+  margin-bottom: 20px;
+}
+
+.form-block {
+  margin-bottom: 40px;
+}
+
+.input {
+  height: 50px;
+  margin-bottom: 0px;
+  padding: 10px 15px;
+  border-style: none;
+  border-radius: 4px;
+  background-color: hsla(0, 0%, 100%, .2);
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+  font-family: 'SF Pro Text', sans-serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 300;
+}
+
+.input:hover {
+  background-color: hsla(0, 0%, 100%, .3);
+}
+
+.input:focus {
+  background-color: hsla(0, 0%, 100%, .3);
+}
+
+.button {
+  display: block;
+  width: 100%;
+  height: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 4px;
+  background-color: #ff674c;
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+  font-family: 'SF Pro Text', sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.button:hover {
+  box-shadow: 0 2px 20px 0 rgba(255, 103, 76, .5);
+  -webkit-transform: translate(0px, -5px);
+  -ms-transform: translate(0px, -5px);
+  transform: translate(0px, -5px);
+}
+
+.column-div {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.row-div {
+  margin-right: -10px;
+  margin-left: -10px;
+}
+
+.text-3 {
+  margin-bottom: 20px;
+  font-family: 'SF Pro Text', sans-serif;
+  color: hsla(0, 0%, 100%, .5);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 300;
+  text-align: left;
+}
+
+.span-link {
+  border-bottom: 1px solid hsla(0, 0%, 100%, .25);
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+  color: hsla(0, 0%, 100%, .5);
+  text-decoration: none;
+}
+
+.span-link:hover {
+  border-bottom-color: hsla(0, 0%, 100%, .5);
+  color: #fff;
+}
+
+.icon-nl {
+  margin-right: 10px;
+}
+
+.success-message {
+  padding: 14px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: hsla(0, 0%, 100%, .25);
+  border-radius: 4px;
+  background-color: transparent;
+  font-family: 'SF Pro Text', sans-serif;
+  font-size: 16px;
+  text-align: left;
+}
+
+.error-message {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 4px;
+  background-color: rgba(255, 103, 76, .25);
+  font-family: 'SF Pro Text', sans-serif;
+  font-size: 16px;
+  text-align: left;
+}
+
+.section-video {
+  z-index: 1;
+  min-height: 100vh;
+}
+
+.plug {
+  position: relative;
+  z-index: 3;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  height: 100%;
+  padding: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  background-image: -webkit-linear-gradient(270deg, rgba(31, 58, 147, .9), rgba(31, 58, 147, .9));
+  background-image: linear-gradient(180deg, rgba(31, 58, 147, .9), rgba(31, 58, 147, .9));
+}
+
+@media (max-width: 991px) {
+  .container.m {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .form-block {
+    margin-bottom: 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .section {
+    padding: 40px 20px;
+  }
+  .section.plug {
+    display: block;
+    min-height: auto;
+  }
+  .h2.blue {
+    margin-bottom: 20px;
+    font-size: 28px;
+    line-height: 40px;
+  }
+  .column {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .row {
+    margin-right: -10px;
+    margin-left: -10px;
+  }
+  .img {
+    margin-bottom: 20px;
+  }
+  .icon-big {
+    width: 40px;
+    height: 40px;
+  }
+  .big-link-text.no-mb {
+    font-size: 28px;
+    line-height: 40px;
+  }
+  .nb {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+  }
+  .brand {
+    margin-top: 5px;
+    margin-right: 0px;
+    padding-left: 0px;
+  }
+  .nl {
+    font-size: 16px;
+  }
+  .h1 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .text-2 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .plug {
+    overflow: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
+
+@media (max-width: 479px) {
+  .nb {
+    display: block;
+  }
+  .brand {
+    margin-top: 5px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+  }
+  .nl {
+    float: left;
+  }
+  .nl.button-nl {
+    margin-right: 20px;
+  }
+  .nl.link-nl {
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .input {
+    margin-bottom: 10px;
+  }
+  .nm {
+    float: left;
+  }
+  .plug {
+    overflow: auto;
+  }
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('../fonts/SF-Pro-Text-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('../fonts/SF-Pro-Display-Heavy.otf') format('opentype'), url('../fonts/SF-Pro-Display-Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('../fonts/SF-Pro-Display-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('../fonts/SF-Pro-Display-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('../fonts/SF-Pro-Display-Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('../fonts/SF-Pro-Text-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('../fonts/SF-Pro-Text-Heavy.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('../fonts/SF-Pro-Text-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('../fonts/SF-Pro-Text-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('../fonts/SF-Pro-Display-Ultralight.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('../fonts/SF-Pro-Display-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('../fonts/SF-Pro-Display-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('../fonts/SF-Pro-Text-Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('../fonts/SF-Pro-Display-Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}

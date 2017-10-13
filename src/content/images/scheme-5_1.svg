@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1120px" height="1110px" viewBox="0 0 1120 1110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>scheme-5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="scheme-5">
+            <g id="Group-3" transform="translate(91.000000, 0.000000)">
+                <g id="Group-4" transform="translate(421.000000, 0.000000)" font-size="52" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" line-spacing="72" fill="#FFFFFF" font-weight="normal">
+                    <text id="ICO">
+                        <tspan x="0.992" y="49">ICO</tspan>
+                    </text>
+                </g>
+                <text id="Прибыль" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="40" fill="#FFFFFF">
+                    <tspan x="401.324" y="696">Прибыль</tspan>
+                </text>
+                <text id="Операционная-деятель" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="40" fill="#FFFFFF">
+                    <tspan x="354.812" y="1022">Операционная</tspan>
+                    <tspan x="365.932" y="1062">деятельность</tspan>
+                    <tspan x="400.124" y="1102">DeHedge</tspan>
+                </text>
+                <g id="Group-2" transform="translate(0.000000, 270.000000)" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" fill="#FFFFFF" font-weight="normal">
+                    <g id="Group">
+                        <text id="Инвестиции-в-быстрол" font-size="32" line-spacing="40">
+                            <tspan x="59.708" y="106">Инвестиции </tspan>
+                            <tspan x="0.636" y="146">в быстроликвидные</tspan>
+                            <tspan x="99.724" y="186">активы</tspan>
+                        </text>
+                        <text id="80%" font-size="52" line-spacing="72">
+                            <tspan x="101.812" y="49">80%</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(671.000000, 270.000000)" fill="#FFFFFF" font-weight="normal">
+                    <text id="Резерв-для-страховых" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" line-spacing="40">
+                        <tspan x="62.148" y="106">Резерв </tspan>
+                        <tspan x="4.084" y="146">для страховых </tspan>
+                        <tspan x="60.516" y="186">выплат</tspan>
+                    </text>
+                    <text id="20%" font-family="Roboto-Regular, Roboto" font-size="52" line-spacing="72">
+                        <tspan x="66.2578125" y="48">20%</tspan>
+                    </text>
+                </g>
+                <g id="arrow" transform="translate(273.000000, 142.500000) rotate(-90.000000) translate(-273.000000, -142.500000) translate(165.500000, 12.500000)" stroke="#FF674C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M214.031472,259.311632 C214,225 223.080028,10 1,10" id="Path-10"></path>
+                    <polyline id="Line-2" transform="translate(5.000000, 10.000000) rotate(-90.000000) translate(-5.000000, -10.000000) " points="-5 15 5.07852624 5 15 15"></polyline>
+                </g>
+                <g id="arrow" transform="translate(267.000000, 592.500000) rotate(-180.000000) translate(-267.000000, -592.500000) translate(152.500000, 485.500000)" stroke="#FF674C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M228.031472,213.309998 C228,178.99859 222.080028,10 5.68434189e-14,10" id="Path-10"></path>
+                    <polyline id="Line-2" transform="translate(5.000000, 10.000000) rotate(-90.000000) translate(-5.000000, -10.000000) " points="-5 15 5.07852624 5 15 15"></polyline>
+                </g>
+                <g id="arrow" transform="translate(676.500000, 587.500000) scale(-1, 1) rotate(-180.000000) translate(-676.500000, -587.500000) translate(557.500000, 485.500000)" stroke="#FF674C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M228.031472,203.309998 C228.018612,189.290189 227.022621,152.783286 210.698808,114.506679 M75.4358418,7.74665474 C53.5705848,2.7978514 28.5746082,-7.46492889e-15 0,0" id="Path-10"></path>
+                    <polyline id="Line-2" transform="translate(228.000000, 199.000000) rotate(-180.000000) translate(-228.000000, -199.000000) " points="218 204 228.078526 194 238 204"></polyline>
+                </g>
+                <g id="arrow" transform="translate(666.000000, 142.500000) scale(-1, 1) rotate(-90.000000) translate(-666.000000, -142.500000) translate(558.500000, 12.500000)" stroke="#FF674C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M214.031472,259.311632 C214,225 223.080028,10 1,10" id="Path-10"></path>
+                    <polyline id="Line-2" transform="translate(5.000000, 10.000000) rotate(-90.000000) translate(-5.000000, -10.000000) " points="-5 15 5.07852624 5 15 15"></polyline>
+                </g>
+                <text id="80%-на-увеличение-об" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="26" font-weight="normal" line-spacing="34" fill="#FF674C">
+                    <tspan x="596.809" y="612">80% на увеличение</tspan>
+                    <tspan x="596.042" y="646">объёма страхового </tspan>
+                    <tspan x="666.97" y="680">резерва</tspan>
+                </text>
+                <g id="Group" transform="translate(470.000000, 848.000000) scale(-1, 1) rotate(-360.000000) translate(-470.000000, -848.000000) translate(460.000000, 725.000000)" stroke="#FF674C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline id="Line-2" transform="translate(10.000000, 241.000000) rotate(-180.000000) translate(-10.000000, -241.000000) " points="0 246 10.0785262 236 20 246"></polyline>
+                    <path d="M10,-1.13686838e-13 L10,85.9873941 M10,159.997156 L10,245.137034" id="Path-9"></path>
+                </g>
+                <text id="20%" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="26" font-weight="normal" line-spacing="34" fill="#FF674C">
+                    <tspan x="444.046" y="856">20%</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

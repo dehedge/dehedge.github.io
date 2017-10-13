@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="960px" viewBox="0 0 960 960" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>scheme-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="scheme-2">
+            <g id="Group-2" transform="translate(0.000000, 410.000000)">
+                <g id="Group-4">
+                    <path d="M4,4 L4,436 L716,436 L716,4 L4,4 Z" id="Rectangle-4" stroke="#F6F6F9" stroke-width="8"></path>
+                    <text id="DeHedge" font-family="MuseoSansCyrl-700, Museo Sans Cyrl" font-size="32" font-weight="500" line-spacing="50" fill="#303498">
+                        <tspan x="60" y="60">DeHedge</tspan>
+                    </text>
+                    <path d="M61,109 L61,281 M61,297 L61,379 L659.000821,379" id="Path-5" stroke="#F6F6F9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <text id="Время" opacity="0.5" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="20" font-weight="normal" line-spacing="25" fill="#181920">
+                        <tspan x="599.62" y="410">Время</tspan>
+                    </text>
+                    <path d="M360,440 L360,534" id="Line" stroke="#F6F6F9" stroke-width="8" stroke-linecap="square"></path>
+                    <path d="M280,542 L440,542" id="Line" stroke="#F6F6F9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+                <text id="ICO-A" font-family="MuseoSansCyrl-700, Museo Sans Cyrl" font-size="32" font-weight="500" line-spacing="50" fill="#FF674C">
+                    <tspan x="563" y="60">ICO A</tspan>
+                </text>
+                <path d="" id="Path-6" stroke="#979797" stroke-width="2"></path>
+                <path d="M68,288 L642,288" id="Path-8" stroke="#F6F6F9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M182.933811,231.340278 L199.652707,238.112489 C218.147703,245.604133 239.078671,244.040438 256.255218,233.883871 L314.210533,199.614641 C336.688424,186.323366 364.987035,188.021477 385.714217,203.905353 C421.904739,231.639261 440,276.337477 440,338" id="Path-7" stroke="#FF674C" stroke-width="4" stroke-linejoin="round"></path>
+                <path d="M67.528004,288.366461 C94,289 106.80308,249.850916 124,238.112489 C152,219 170.621402,226.352973 182.933811,231.340278 L199.652707,238.112489 C218.147703,245.604133 239.078671,244.040438 256.255218,233.883871 L314.210533,199.614641 C336.688424,186.323366 364.987035,188.021477 385.714217,203.905353 C411.120575,223.375025 427.609087,251.205179 435.179752,287.395815" id="Path-7" stroke="#303498" stroke-width="4" stroke-linejoin="round"></path>
+                <circle id="Oval" stroke="#FF674C" stroke-width="4" cx="440" cy="346" r="8"></circle>
+                <circle id="Oval-Copy" stroke="#303498" stroke-width="4" cx="60" cy="289.200012" r="8"></circle>
+                <text id="Цена-токена" opacity="0.5" transform="translate(31.500000, 168.000000) rotate(-90.000000) translate(-31.500000, -168.000000) " font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="20" font-weight="normal" line-spacing="25" fill="#181920">
+                    <tspan x="-27.74" y="174.5">Цена токена</tspan>
+                </text>
+                <text id="Токен" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="50">
+                    <tspan x="465" y="60" fill="#181920">Токен</tspan>
+                    <tspan x="554.792" y="60" font-family="MuseoSansCyrl-900, Museo Sans Cyrl" font-weight="bold" fill="#FF674C"> </tspan>
+                </text>
+                <text id="Окончание-срока-дейс" opacity="0.5" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="20" font-weight="normal" line-spacing="25" fill="#181920">
+                    <tspan x="491.62" y="203">Окончание срока</tspan>
+                    <tspan x="468.58" y="228">действия страховки</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(485.000000, 29.000000)" stroke="#303498" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline id="Line-2" transform="translate(117.000000, 107.000000) rotate(-180.000000) translate(-117.000000, -107.000000) " points="107 112 117.078526 102 127 112"></polyline>
+                <path d="M-1.42108547e-14,-1.73472348e-18 L15.4180758,-1.73472348e-18 L15.4180758,-2.84217094e-14 C71.7491459,-3.8769335e-14 117.414501,45.6653549 117.414501,101.996425 C117.414501,105.0479 117.277562,108.097838 117.004098,111.137034 L117.004098,111.137034" id="Path-9"></path>
+            </g>
+            <g id="Group-5" opacity="0.5" transform="translate(620.000000, 339.000000)"></g>
+            <text id="1.-Уведомлён-о-паден" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="50" fill="#181920">
+                <tspan x="0" y="31" fill-opacity="0.5">1.</tspan>
+                <tspan x="23.616" y="31" fill-opacity="0.75"> </tspan>
+                <tspan x="31.616" y="31">Уведомлён о падении курса</tspan>
+            </text>
+            <text id="2.-Отправляет-застра" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="50">
+                <tspan x="494.98" y="228" fill="#181920" fill-opacity="0.5">2.</tspan>
+                <tspan x="521.124" y="228" fill="#181920" fill-opacity="0.75"> </tspan>
+                <tspan x="529.124" y="228" fill="#181920">Отправляет </tspan>
+                <tspan x="477.764" y="278" fill="#181920">застрахованный </tspan>
+                <tspan x="511.284" y="328" fill="#181920">токен</tspan>
+                <tspan x="599.604" y="328" fill="#181920" fill-opacity="0.75"> </tspan>
+                <tspan x="607.604" y="328" font-family="MuseoSansCyrl-700, Museo Sans Cyrl" font-weight="500" fill="#FF674C">ICO A</tspan>
+            </text>
+            <text id="Инвестор" font-family="MuseoSansCyrl-700, Museo Sans Cyrl" font-size="32" font-weight="500" line-spacing="50" fill="#303498">
+                <tspan x="526" y="178">Инвестор</tspan>
+            </text>
+            <text id="3.-Выплачивает-возме" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="50" fill="#181920">
+                <tspan x="831.024" y="566" fill-opacity="0.5">3.</tspan>
+                <tspan x="856.976" y="566" fill-opacity="0.75"> </tspan>
+                <tspan x="744.832" y="616">Выплачивает</tspan>
+                <tspan x="747.888" y="666">возмещение</tspan>
+                <tspan x="763.712" y="716">в BTC/ETH</tspan>
+            </text>
+            <g id="arrow" transform="translate(702.000000, 163.000000)" stroke="#303498" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M91.515736,727 C124.526227,706.333333 141.031472,662.095355 141.031472,594.286064 M141.031472,354.311632 C140.99501,276.763521 140.98452,210.82631 141,156.5 C141.023221,75.0105352 96.6935718,10 2,10" id="Path-10"></path>
+                <polyline id="Line-2" transform="translate(5.000000, 10.000000) rotate(-90.000000) translate(-5.000000, -10.000000) " points="-5 15 5.07852624 5 15 15"></polyline>
+            </g>
+            <g id="Group" transform="translate(414.000000, 313.000000) scale(-1, 1) translate(-414.000000, -313.000000) translate(328.000000, 173.000000)" stroke="#303498" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline id="Line-2" transform="translate(162.000000, 275.000000) rotate(-180.000000) translate(-162.000000, -275.000000) " points="152 280 162.078526 270 172 280"></polyline>
+                <path d="M0,2.5243549e-29 L0,2.5243549e-29 L-2.97577786e-14,2.5243549e-29 C89.4723929,-1.64358119e-14 162.004098,72.5317054 162.004098,162.004098 L162.004098,279.137034" id="Path-9"></path>
+            </g>
+            <path d="M28,57 L28,202 M28,252 L28,397" id="Line-2" stroke="#303498" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <g id="Group-6" transform="translate(10.000000, 215.000000)" fill-rule="nonzero" fill="#303498">
+                <g id="message">
+                    <path d="M19.5287143,14.028 L34.0238571,0 L1.97614286,0 L16.47,14.028 C17.3275714,14.86 18.6724286,14.86 19.5287143,14.028 Z" id="Shape"></path>
+                    <polygon id="Shape" points="10.1648571 11.5733333 0 1.73466667 0 22.1146667"></polygon>
+                    <polygon id="Shape" points="25.8351429 11.5733333 36 22.1146667 36 1.73466667"></polygon>
+                    <path d="M23.9541429,13.3933333 L21.2837143,15.9773333 C20.3618571,16.8693333 19.1802857,17.3146667 17.9987143,17.3146667 C16.8171429,17.3146667 15.6355714,16.8693333 14.7137143,15.9773333 L12.0432857,13.3933333 L1.818,24 L34.182,24 L23.9541429,13.3933333 Z" id="Shape"></path>
+                </g>
+            </g>
+            <circle id="Oval-Copy-2" stroke="#F6F6F9" stroke-width="4" cx="650" cy="701" r="8"></circle>
+            <text id="Страховой-резерв" font-family="MuseoSansCyrl-700, Museo Sans Cyrl" font-size="32" font-weight="500" line-spacing="50" fill="#303498">
+                <tspan x="652" y="938">Страховой резерв</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -15,7 +15,6 @@
   "devDependencies": {
     "async": "^2.5.0",
     "gulp": "^3.9.1",
-    "gulp-change": "^1.0.0",
     "gulp-connect": "^5.0.0"
   }
 }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>businessman-red</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="businessman-red" fill-rule="nonzero" fill="#FF674C">
+            <g id="businessman" transform="translate(3.000000, 3.000000)">
+                <path d="M11.5,20.084 L10.361,18 L11.974,18 L13.639,18 L12.5,20.084 L13.695,24 L24,24 C24,17 16,19 15,16 L15,14 C15.45,13.777 16.737,12.245 16.872,11.048 C17.226,11.021 17.782,10.696 17.946,9.413 C18.034,8.724 17.684,8.337 17.472,8.215 C17.472,8.215 18,7.212 18,6.001 C18,3.573 17.047,1.501 15,1.501 C15,1.501 14.289,0.001 12,0.001 C7.758,0.001 6,2.722 6,6.001 C6,7.105 6.528,8.215 6.528,8.215 C6.316,8.337 5.966,8.725 6.054,9.413 C6.218,10.696 6.774,11.021 7.128,11.048 C7.263,12.245 8.55,13.777 9,14 L9,16 C8,19 0,17 0,24 L10.305,24 L11.5,20.084 Z" id="Shape"></path>
+                <path d="M16.5,18 L14,18 L14,16 L14.889,16 C15.269,16 15.617,16.216 15.785,16.556 L16.5,18 Z" id="Shape"></path>
+                <path d="M7.5,18 L10,18 L10,16 L9.111,16 C8.731,16 8.383,16.216 8.215,16.556 L7.5,18 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

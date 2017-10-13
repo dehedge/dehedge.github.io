@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="750px" viewBox="0 0 960 750" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>scheme-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="scheme-1">
+            <g id="Group">
+                <g id="Group-4" transform="translate(0.000000, 200.000000)">
+                    <rect id="Rectangle-4" stroke="#F6F6F9" stroke-width="8" x="4" y="4" width="712" height="432" rx="10"></rect>
+                    <text id="DeHedge" font-family="MuseoSansCyrl-700, Museo Sans Cyrl" font-size="32" font-weight="500" line-spacing="50" fill="#303498">
+                        <tspan x="60" y="60">DeHedge</tspan>
+                    </text>
+                    <g id="Group-Copy" transform="translate(60.000000, 110.000000)" font-weight="normal" font-size="20" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" fill="#181920" line-spacing="25" opacity="0.5">
+                        <g id="Group-3">
+                            <text id="Название-ICO">
+                                <tspan x="0" y="24">Название ICO</tspan>
+                            </text>
+                            <text id="Время-действия-страх">
+                                <tspan x="200" y="19">Время действия</tspan>
+                                <tspan x="200" y="44">страхования</tspan>
+                            </text>
+                            <text id="Стоимость-страховани">
+                                <tspan x="400" y="24">Стоимость </tspan>
+                                <tspan x="400" y="49">страхования</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <path d="M360,440 L360,534" id="Line" stroke="#F6F6F9" stroke-width="8" stroke-linecap="square"></path>
+                    <path d="M280,542 L440,542" id="Line" stroke="#F6F6F9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+                <g id="Group-6" transform="translate(175.000000, 28.000000)" stroke="#303498" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline id="Line-2" transform="translate(356.516306, 244.000000) rotate(-170.000000) translate(-356.516306, -244.000000) " points="346.516306 249 356.594832 239 366.516306 249"></polyline>
+                    <path d="M0,0 L190,0 C333.77076,0 389.104094,82.3333333 356,247" id="Path-4"></path>
+                </g>
+                <g id="Group-5" opacity="0.5" transform="translate(620.000000, 321.000000)"></g>
+                <text id="Проверяет-возможност" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="50" fill="#181920">
+                    <tspan x="0" y="80">Проверяет возможность </tspan>
+                    <tspan x="0" y="130">и инвестирует в </tspan>
+                    <tspan x="253.44" y="130" fill-opacity="0.75"> </tspan>
+                </text>
+                <text id="ICO-A" font-family="MuseoSansCyrl-700, Museo Sans Cyrl" font-size="32" font-weight="500" line-spacing="50" fill="#FF674C">
+                    <tspan x="60" y="410">ICO A</tspan>
+                </text>
+                <text id="ICO-A" font-family="MuseoSansCyrl-700, Museo Sans Cyrl" font-size="32" font-weight="500" line-spacing="50" fill="#FF674C">
+                    <tspan x="253" y="130">ICO A</tspan>
+                </text>
+                <text id="15-day" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="50" fill="#181920">
+                    <tspan x="260" y="410">15 day</tspan>
+                </text>
+                <text id="350-day" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="50" fill="#181920">
+                    <tspan x="260" y="480">350 day</tspan>
+                </text>
+                <text id="45-day" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="50" fill="#181920">
+                    <tspan x="260" y="550">45 day</tspan>
+                </text>
+                <text id="2-DHT" font-family="MuseoSansCyrl-700, Museo Sans Cyrl" font-size="32" font-weight="500" line-spacing="50" fill="#303498">
+                    <tspan x="460" y="410">2 DHT</tspan>
+                </text>
+                <text id="14-DHT" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="50" fill="#181920">
+                    <tspan x="460" y="480">14 DHT</tspan>
+                </text>
+                <text id="6-DHT" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="50" fill="#181920">
+                    <tspan x="460" y="550">6 DHT</tspan>
+                </text>
+                <text id="ICO-B" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="50" fill="#181920">
+                    <tspan x="60" y="480">ICO B</tspan>
+                </text>
+                <text id="ICO-C" font-family="MuseoSansCyrl-500, Museo Sans Cyrl" font-size="32" font-weight="normal" line-spacing="50" fill="#181920">
+                    <tspan x="60" y="550">ICO C</tspan>
+                </text>
+                <text id="Инвестор" font-family="MuseoSansCyrl-700, Museo Sans Cyrl" font-size="32" font-weight="500" line-spacing="50" fill="#303498">
+                    <tspan x="0" y="30">Инвестор</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

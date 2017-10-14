@@ -17,7 +17,7 @@ gulp.task('html-pages', done => {
         let target = config.pages[item];
         let res = fs.readFileSync(config.prefix + 'content/' + item + '.html').toString()
             .replace(new RegExp('"(' + config.assetsFolders.join('|') + ')', 'g'), '"/$1')
-            .replace('en.html', '/')
+            .replace(new RegExp('en.html', 'g'), '/')
             .replace(new RegExp('index.html', 'g'), '/ru')
             .replace('</head>', '<script src="/js/city.js"></script></head>');
 

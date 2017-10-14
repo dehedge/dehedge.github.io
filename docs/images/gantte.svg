@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1160px" height="739px" viewBox="0 0 1160 739" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>gantte</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FF674C" offset="0%"></stop>
+            <stop stop-color="#FFE54C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gantte-text" transform="translate(-20.000000, -11.000000)">
+            <g id="gantte" transform="translate(20.000000, 11.000000)">
+                <text id="Разработка-скорингов" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="25" fill-opacity="0.75" fill="#FFFFFF">
+                    <tspan x="0" y="121">Разработка </tspan>
+                    <tspan x="0" y="146">скоринговой модели</tspan>
+                </text>
+                <text id="Запуск-страхования-р" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="25" fill-opacity="0.75" fill="#FFFFFF">
+                    <tspan x="0" y="401">Запуск страхования </tspan>
+                    <tspan x="0" y="426">рисков</tspan>
+                </text>
+                <text id="Разработка-платформы" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="25" fill-opacity="0.75" fill="#FFFFFF">
+                    <tspan x="0" y="261">Разработка платформы</tspan>
+                    <tspan x="0" y="286">по страхованию в ICO</tspan>
+                </text>
+                <text id="Разработка-платформы" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="25" fill-opacity="0.75" fill="#FFFFFF">
+                    <tspan x="0" y="541">Разработка платформы</tspan>
+                    <tspan x="0" y="566">по страхованию в ICO</tspan>
+                </text>
+                <text id="Тестирование-скоринг" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="25" fill-opacity="0.75" fill="#FFFFFF">
+                    <tspan x="0" y="191">Тестирование </tspan>
+                    <tspan x="0" y="216">скоринговой модели</tspan>
+                </text>
+                <text id="Разработка-платформы" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="25" fill-opacity="0.75" fill="#FFFFFF">
+                    <tspan x="0" y="471">Разработка платформы </tspan>
+                    <tspan x="0" y="496">страхования котировок</tspan>
+                </text>
+                <text id="Запуск-бета-версии-п" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="25" fill-opacity="0.75" fill="#FFFFFF">
+                    <tspan x="0" y="331">Запуск бета-версии </tspan>
+                    <tspan x="0" y="356">платформы</tspan>
+                </text>
+                <text id="Интеграция-с-опцион-" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="25" fill-opacity="0.75" fill="#FFFFFF">
+                    <tspan x="0" y="611">Интеграция с опцион-</tspan>
+                    <tspan x="0" y="636">ными крипто-биржами</tspan>
+                </text>
+                <text id="Разработка-новых-объ" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="25" fill-opacity="0.75" fill="#FFFFFF">
+                    <tspan x="0" y="681">Разработка новых </tspan>
+                    <tspan x="0" y="706">объектов страхования</tspan>
+                </text>
+                <text id="Этапы-запуска" opacity="0.900000036" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" line-spacing="30" fill="#FFFFFF">
+                    <tspan x="0" y="34">Этапы запуска</tspan>
+                </text>
+                <path d="M265,0 L1155,0 L1155,0 C1157.76142,-5.07265313e-16 1160,2.23857625 1160,5 L1160,49 L260,49 L260,5 L260,5 C260,2.23857625 262.238576,5.07265313e-16 265,0 Z" id="table-head" fill-opacity="0.1" fill="#FFFFFF"></path>
+                <text id="2017" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" line-spacing="30" fill="#FFFFFF">
+                    <tspan x="280" y="34">2017</tspan>
+                </text>
+                <text id="2018" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" line-spacing="30" fill="#FFFFFF">
+                    <tspan x="655" y="34">2018</tspan>
+                </text>
+                <g id="months" transform="translate(284.000000, 58.000000)" fill="#FFFFFF" font-size="16" font-family="RobotoMono-Regular, Roboto Mono" line-spacing="20" fill-opacity="0.75" font-weight="normal">
+                    <text id="Авг">
+                        <tspan x="0.5" y="17">Авг</tspan>
+                    </text>
+                    <text id="Сен">
+                        <tspan x="75.5" y="17">Сен</tspan>
+                    </text>
+                    <text id="Окт">
+                        <tspan x="150.5" y="17">Окт</tspan>
+                    </text>
+                    <text id="Ноя">
+                        <tspan x="225.5" y="17">Ноя</tspan>
+                    </text>
+                    <text id="Дек">
+                        <tspan x="300.5" y="17">Дек</tspan>
+                    </text>
+                    <text id="Янв">
+                        <tspan x="375.5" y="17">Янв</tspan>
+                    </text>
+                    <text id="Фев">
+                        <tspan x="450.5" y="17">Фев</tspan>
+                    </text>
+                    <text id="Мар">
+                        <tspan x="526.5" y="17">Мар</tspan>
+                    </text>
+                    <text id="Апр">
+                        <tspan x="599.5" y="17">Апр</tspan>
+                    </text>
+                    <text id="Май">
+                        <tspan x="676.5" y="17">Май</tspan>
+                    </text>
+                    <text id="Июн">
+                        <tspan x="752.5" y="17">Июн</tspan>
+                    </text>
+                    <text id="Июл">
+                        <tspan x="827.5" y="17">Июл</tspan>
+                    </text>
+                </g>
+                <path d="M260.5,49.5 L260.5,734 C260.5,736.485281 262.514719,738.5 265,738.5 L1155,738.5 C1157.48528,738.5 1159.5,736.485281 1159.5,734 L1159.5,49.5 L260.5,49.5 Z" id="table" stroke-opacity="0.1" stroke="#FFFFFF"></path>
+                <g id="grid" transform="translate(335.000000, 50.500000)" stroke-opacity="0.1" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M1,0 L1,687" id="Line-4"></path>
+                    <path d="M76,0 L76,687" id="Line-4"></path>
+                    <path d="M151,0 L151,687" id="Line-4"></path>
+                    <path d="M226,0 L226,687" id="Line-4"></path>
+                    <path d="M301,0 L301,687" id="Line-4"></path>
+                    <path d="M376,0 L376,687" id="Line-4"></path>
+                    <path d="M451,0 L451,687" id="Line-4"></path>
+                    <path d="M526,0 L526,687" id="Line-4"></path>
+                    <path d="M601,0 L601,687" id="Line-4"></path>
+                    <path d="M676,0 L676,687" id="Line-4"></path>
+                    <path d="M751,0 L751,687" id="Line-4"></path>
+                </g>
+                <path d="M305,104 L440,104 C453.807119,104 465,115.192881 465,129 L465,129 C465,142.807119 453.807119,154 440,154 L305,154 C291.192881,154 280,142.807119 280,129 L280,129 L280,129 C280,115.192881 291.192881,104 305,104 L305,104 Z M981,668 L1114,668 C1128.3594,668 1140,679.640597 1140,694 C1140,708.359403 1128.3594,720 1114,720 L981,720 C966.640597,720 955,708.359403 955,694 C955,679.640597 966.640597,668 981,668 Z M756,454 L889,454 C903.359403,454 915,465.640597 915,480 C915,494.359403 903.359403,506 889,506 L756,506 C741.640597,506 730,494.359403 730,480 C730,465.640597 741.640597,454 756,454 Z M305,244 L591,244 L591,244 C604.807119,244 616,255.192881 616,269 L616,269 C616,282.807119 604.807119,294 591,294 L305,294 C291.192881,294 280,282.807119 280,269 C280,255.192881 291.192881,244 305,244 L305,244 Z M455,174 L515,174 C528.807119,174 540,185.192881 540,199 C540,212.807119 528.807119,224 515,224 L455,224 C441.192881,224 430,212.807119 430,199 C430,185.192881 441.192881,174 455,174 Z M831,526 L889,526 C903.359403,526 915,537.640597 915,552 C915,566.359403 903.359403,578 889,578 L831,578 C816.640597,578 805,566.359403 805,552 C805,537.640597 816.640597,526 831,526 Z M636,314 C649.807119,314 661,325.192881 661,339 C661,352.807119 649.807119,364 636,364 C622.192881,364 611,352.807119 611,339 C611,325.192881 622.192881,314 636,314 Z M711,384 C724.807119,384 736,395.192881 736,409 C736,422.807119 724.807119,434 711,434 C697.192881,434 686,422.807119 686,409 C686,395.192881 697.192881,384 711,384 Z M936,598 C949.807119,598 961,609.192881 961,623 C961,636.807119 949.807119,648 936,648 C922.192881,648 911,636.807119 911,623 C911,609.192881 922.192881,598 936,598 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <g id="rocket" transform="translate(923.000000, 612.000000)" fill-rule="nonzero" fill="#FFFFFF">
+                    <polygon id="Shape" points="8 19 5 16 5 11 13 19"></polygon>
+                    <path d="M23.979,0.021 C23.979,0.021 15,1.35308431e-16 8,7 C5.01,9.99 5,15 7,17 C9,19 14.01,18.99 17,16 C24,9 23.979,0.021 23.979,0.021 Z M14,8 C14,6.895 14.895,6 16,6 C17.105,6 18,6.895 18,8 C18,9.105 17.105,10 16,10 C14.895,10 14,9.105 14,8 Z" id="Shape"></path>
+                    <path d="M15.811,15.676 C15.811,15.676 16.568,19.46 15.054,20.973 C12.784,23.243 9,24 9,24 L10,17 L15.811,15.676 Z" id="Shape"></path>
+                    <path d="M8.324,8.189 C8.324,8.189 4.54,7.432 3.027,8.946 C0.757,11.216 0,15 0,15 L7,14 L8.324,8.189 Z" id="Shape"></path>
+                    <path d="M6.542,19.34 C6.497,19.404 6.47,19.478 6.412,19.535 C5.437,20.51 3.974,20.023 3.974,20.023 C3.974,20.023 3.486,18.56 4.462,17.585 C4.52,17.527 4.593,17.501 4.657,17.455 L4.2,16.997 C3.82,17.097 3.459,17.287 3.162,17.584 C1.796,18.95 2.013,21.984 2.013,21.984 C2.013,21.984 5.029,22.219 6.413,20.835 C6.71,20.538 6.9,20.177 7,19.797 L6.542,19.34 Z" id="Shape"></path>
+                </g>
+                <g id="rocket" transform="translate(698.000000, 398.000000)" fill-rule="nonzero" fill="#FFFFFF">
+                    <polygon id="Shape" points="8 19 5 16 5 11 13 19"></polygon>
+                    <path d="M23.979,0.021 C23.979,0.021 15,1.35308431e-16 8,7 C5.01,9.99 5,15 7,17 C9,19 14.01,18.99 17,16 C24,9 23.979,0.021 23.979,0.021 Z M14,8 C14,6.895 14.895,6 16,6 C17.105,6 18,6.895 18,8 C18,9.105 17.105,10 16,10 C14.895,10 14,9.105 14,8 Z" id="Shape"></path>
+                    <path d="M15.811,15.676 C15.811,15.676 16.568,19.46 15.054,20.973 C12.784,23.243 9,24 9,24 L10,17 L15.811,15.676 Z" id="Shape"></path>
+                    <path d="M8.324,8.189 C8.324,8.189 4.54,7.432 3.027,8.946 C0.757,11.216 0,15 0,15 L7,14 L8.324,8.189 Z" id="Shape"></path>
+                    <path d="M6.542,19.34 C6.497,19.404 6.47,19.478 6.412,19.535 C5.437,20.51 3.974,20.023 3.974,20.023 C3.974,20.023 3.486,18.56 4.462,17.585 C4.52,17.527 4.593,17.501 4.657,17.455 L4.2,16.997 C3.82,17.097 3.459,17.287 3.162,17.584 C1.796,18.95 2.013,21.984 2.013,21.984 C2.013,21.984 5.029,22.219 6.413,20.835 C6.71,20.538 6.9,20.177 7,19.797 L6.542,19.34 Z" id="Shape"></path>
+                </g>
+                <g id="rocket" transform="translate(623.000000, 328.000000)" fill-rule="nonzero" fill="#FFFFFF">
+                    <polygon id="Shape" points="8 19 5 16 5 11 13 19"></polygon>
+                    <path d="M23.979,0.021 C23.979,0.021 15,1.35308431e-16 8,7 C5.01,9.99 5,15 7,17 C9,19 14.01,18.99 17,16 C24,9 23.979,0.021 23.979,0.021 Z M14,8 C14,6.895 14.895,6 16,6 C17.105,6 18,6.895 18,8 C18,9.105 17.105,10 16,10 C14.895,10 14,9.105 14,8 Z" id="Shape"></path>
+                    <path d="M15.811,15.676 C15.811,15.676 16.568,19.46 15.054,20.973 C12.784,23.243 9,24 9,24 L10,17 L15.811,15.676 Z" id="Shape"></path>
+                    <path d="M8.324,8.189 C8.324,8.189 4.54,7.432 3.027,8.946 C0.757,11.216 0,15 0,15 L7,14 L8.324,8.189 Z" id="Shape"></path>
+                    <path d="M6.542,19.34 C6.497,19.404 6.47,19.478 6.412,19.535 C5.437,20.51 3.974,20.023 3.974,20.023 C3.974,20.023 3.486,18.56 4.462,17.585 C4.52,17.527 4.593,17.501 4.657,17.455 L4.2,16.997 C3.82,17.097 3.459,17.287 3.162,17.584 C1.796,18.95 2.013,21.984 2.013,21.984 C2.013,21.984 5.029,22.219 6.413,20.835 C6.71,20.538 6.9,20.177 7,19.797 L6.542,19.34 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="30" height="30" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>thumbs-up-gradient</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(2994 -16)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -2994 16L -2964 16L -2964 46L -2994 46L -2994 16Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="thumbs-up-gradient" clip-path="url(#clip-0)">
+<clipPath id="clip-1" clip-rule="evenodd">
+<path d="M -2994 16L -2964 16L -2964 46L -2994 46L -2994 16Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="thumbs_up" clip-path="url(#clip-1)">
+<g id="thumbs_up">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-2990 18.5)" fill="#FF674C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 1 23C 0.447754 23 0 22.5523 0 22L 0 10.7918C 0 10.3279 0.318115 9.92452 0.762207 9.78984C 1.81616 9.47013 3.64429 8.80153 4.13208 7.894L 6.49902 3.491L 7 0L 8 0C 11 0 11 2.749 11 5C 11 5.734 10 9 10 9L 19.5 9C 20.8806 9 22 10.1193 22 11.5C 22 12.3178 21.6074 13.0439 21.0002 13.5C 21.6074 13.9561 22 14.6822 22 15.5C 22 16.5738 21.323 17.4895 20.3726 17.8435C 20.7629 18.2846 21 18.8646 21 19.5C 21 20.7095 20.1411 21.7183 19 21.95L 19 23C 19 24.1046 18.1045 25 17 25L 6.82788 25C 5.01709 25 3.28101 24.281 2 23L 1 23Z"/>
+</defs>
+</svg>

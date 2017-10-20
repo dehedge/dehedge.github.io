@@ -1,0 +1,23 @@
+<svg width="30" height="30" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>mining-gradient</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(2959 -86)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -2959 86L -2929 86L -2929 116L -2959 116L -2959 86Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="mining-gradient" clip-path="url(#clip-0)">
+<g id="mining-gradient">
+<g id="Exclude">
+<use xlink:href="#path0_fill" transform="translate(-2954 101)" fill="#303498"/>
+</g>
+<g id="Exclude">
+<use xlink:href="#path1_fill" transform="translate(-2954 88)" fill="#303498"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 2C 0 0.895432 0.895508 0 2 0L 0 0L 0 2ZM 20 2C 20 0.895432 19.1045 0 18 0L 20 0L 20 2ZM 18 8C 19.1045 8 20 7.10457 20 6L 20 11C 20 12.1046 19.1045 13 18 13L 2 13C 0.895508 13 0 12.1046 0 11L 0 6C 0 7.10457 0.895508 8 2 8L 18 8ZM 17 11.5C 17.5522 11.5 18 11.0523 18 10.5C 18 9.94772 17.5522 9.5 17 9.5C 16.4478 9.5 16 9.94772 16 10.5C 16 11.0523 16.4478 11.5 17 11.5Z"/>
+<path id="path1_fill" d="M 0 2C 0 0.89543 0.89543 0 2 0L 18 0C 19.1046 0 20 0.89543 20 2L 20 16C 20 17.1046 19.1046 18 18 18L 2 18C 0.89543 18 0 17.1046 0 16L 0 2Z"/>
+</defs>
+</svg>

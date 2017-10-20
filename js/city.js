@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){function a(){return navigator.language||navigator.browserLanguage}"undefined"!=typeof localStorage&&void 0===localStorage.lang&&("ru"===a()&&-1===location.pathname.indexOf("/ru")&&(location.href="/ru"),localStorage.lang=a())},!1);

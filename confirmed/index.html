@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<!--  Last Published: Thu Oct 19 2017 08:16:57 GMT+0000 (UTC)  -->
-<html data-wf-page="59e13afd26426a000147e8dc" data-wf-site="59c390f6a824860001f697d9">
+<!--  Last Published: Fri Oct 20 2017 20:31:49 GMT+0000 (UTC)  -->
+<html class="hide-top-menu-when-loading"  data-wf-page="59e13afd26426a000147e8dc" data-wf-site="59c390f6a824860001f697d9">
 <head>
   <meta charset="utf-8">
-  <title>Subscription Confirmed</title>
+  <title>Subscription Confirmed</title><link rel="stylesheet" href="/css/main.css">
   <meta content="Subscription Confirmed" property="og:title">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <link href="/css/normalize.css" rel="stylesheet" type="text/css">
@@ -35,8 +35,7 @@
   .input:-ms-input-placeholder {color: rgba(255, 255, 255, 0.5);}\
 </style>
 - -->
-<link rel="stylesheet" href="/css/main.css"><script src="https://cdn.ravenjs.com/3.10.0/raven.min.js"></script>
-<script src="/js/main.js"></script></head>
+</head>
 <body>
   <div data-ix="show-fixed" data-w-id="bbefc95b-016f-0bc8-e955-9567733622cb" class="full section">
     <div class="container navbar-container">
@@ -51,7 +50,7 @@
           <p class="paragraph-big">Your subscription to our list has been confirmed. Thank you for subscribing!</p>
         </div>
         <div class="column w-col w-col-2"></div>
-      </div><a href="/" class="button glyph w-button">Continue to our website</a><a href="#" class="button-linkblock w-inline-block"><img src="/images/circled-play-white.svg" class="video-icon"><div>Посмотреть видео</div></a></div>
+      </div><a href="inactive//" class="button glyph w-button">Continue to our website</a><a href="#" class="button-linkblock w-inline-block"><img src="/images/circled-play-white.svg" class="video-icon"><div>Посмотреть видео</div></a></div>
     <div class="container margins w-clearfix">
       <div class="w-embed">
         <style type="text/css">
@@ -104,25 +103,49 @@
       gtag('js', new Date());
       gtag('config', 'UA-106930454-1');
     </script>
+  <!--  VK Pixel Code  -->
   <script type="text/javascript">
       (window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-168641-2XJsz';
     </script>
-  <!-- Facebook Pixel Code -->
+  <!--  End VK Pixel Code  -->
+  <!--  Facebook Pixel Code  -->
   <script>
-      !function(f,b,e,v,n,t,s)
-      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-          n.queue=[];t=b.createElement(e);t.async=!0;
-          t.src=v;s=b.getElementsByTagName(e)[0];
-          s.parentNode.insertBefore(t,s)}(window, document,'script',
-          'https://connect.facebook.net/en_US/fbevents.js');
+      ! function(f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function() {
+          n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+      }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
       fbq('init', '160509804534027');
       fbq('track', 'PageView');
-  </script>
-  <noscript><img height="1" width="1" style="display:none"
-                 src="https://www.facebook.com/tr?id=160509804534027&ev=PageView&noscript=1"
-  /></noscript>
-  <!-- End Facebook Pixel Code -->
-</body>
+    </script>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=160509804534027&ev=PageView&noscript=1"></noscript>
+  <!--  End Facebook Pixel Code  -->
+  <!--  Twitter universal website tag code  -->
+  <script>
+      ! function(e, t, n, s, u, a) {
+        e.twq || (s = e.twq = function() {
+            s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+          }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src = '//static.ads-twitter.com/uwt.js',
+          a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
+      }(window, document, 'script');
+      // Insert Twitter Pixel ID and Standard Event data below
+      twq('init', 'nybic');
+      twq('track', 'PageView');
+    </script>
+  <!--  End Twitter universal website tag code  -->
+<script src="https://cdn.ravenjs.com/3.10.0/raven.min.js"></script>
+<script src="/js/main.js"></script></body>
 </html>
